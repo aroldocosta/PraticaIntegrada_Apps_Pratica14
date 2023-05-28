@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "pratica14"
+  },
+  "targets": {
+    "pratica14": {
+      "hosting": {
+        "app": [
+          "pratica14"
+        ]
+      }
+    }
+  }
+}
